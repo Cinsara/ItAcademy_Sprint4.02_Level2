@@ -43,8 +43,8 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
-
 Make sure to replace your_database_name, your_username, and your_password with your actual MySQL database credentials.
+
 ---
 
 ## 📂 Project Structure
